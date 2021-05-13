@@ -19,7 +19,7 @@ head:
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        url: https://removeif.github.io/
+        url: https://zaihua.vercel.app/
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
